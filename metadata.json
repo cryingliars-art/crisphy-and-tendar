@@ -1,0 +1,6 @@
+{
+  "name": "Crispy & Tender",
+  "description": "Modern, premium fast food restaurant with bento grid ordering experience, deals, custom menu, and instant delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
